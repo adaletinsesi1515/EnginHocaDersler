@@ -10,6 +10,7 @@ namespace DictionaryGeneric
             myDictionary.Add(35, "Memduh");
             Console.WriteLine(myDictionary.Count);
 
+            Console.WriteLine("Test");
         }
     }
 
