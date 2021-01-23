@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnginHocaDersler", "EnginHocaDersler\EnginHocaDersler.csproj", "{07DF2DE7-1C38-475D-A5D9-EAF72E52CA8A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnginHocaDersler", "EnginHocaDersler\EnginHocaDersler.csproj", "{07DF2DE7-1C38-475D-A5D9-EAF72E52CA8A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryGeneric", "DictionaryGeneric\DictionaryGeneric.csproj", "{D0CE35E0-2D21-4226-A85F-F75B48A5738A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DictionaryGeneric", "DictionaryGeneric\DictionaryGeneric.csproj", "{D0CE35E0-2D21-4226-A85F-F75B48A5738A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2", "OOP2\OOP2.csproj", "{F56D996F-1526-42C0-B813-8E25679B8EDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{2F920CFC-D692-4F26-BC2F-572E92962B3A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{D0CE35E0-2D21-4226-A85F-F75B48A5738A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0CE35E0-2D21-4226-A85F-F75B48A5738A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0CE35E0-2D21-4226-A85F-F75B48A5738A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F56D996F-1526-42C0-B813-8E25679B8EDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F56D996F-1526-42C0-B813-8E25679B8EDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F56D996F-1526-42C0-B813-8E25679B8EDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F56D996F-1526-42C0-B813-8E25679B8EDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F920CFC-D692-4F26-BC2F-572E92962B3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F920CFC-D692-4F26-BC2F-572E92962B3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F920CFC-D692-4F26-BC2F-572E92962B3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F920CFC-D692-4F26-BC2F-572E92962B3A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
